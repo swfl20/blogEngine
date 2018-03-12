@@ -1,0 +1,253 @@
+h1{ 
+color: #000000;
+background-color:#EEE9E9;
+text-align:center;
+border:12px groove #6699CC;
+border-left:none;
+border-right:none;
+padding:10px;
+font-weight:bold;
+margin-bottom:0;
+}
+h2{ 
+color: #F1F7F7;
+background-color:#000;
+text-align:center;
+padding:4px;
+font-size:medium;
+}
+html{
+padding-left:100px;
+padding-right:100px;
+background-color:#CCCCCC;
+}
+form{
+padding-left:10px;
+font-size:small;
+}
+label{
+text-align: right;
+width: 50px;
+margin-right: 15px;
+margin-left: 25px;
+display: block;
+float: left;
+}
+p.this{
+border: 1px solid black;
+padding: 30px;
+margin: 10px;
+}
+.submit input{
+color: #000000;
+background: #FFCC00;
+margin-left: 4.5em;
+border: 2px outset #DBC0CE;
+}
+fieldset{
+margin-right:auto;
+margin-left:auto;
+margin-bottom:15px;
+border: 1px solid #DC143C;
+width:35%;
+display:block;
+padding:10px;
+}
+legend{
+border: 1px solid black;
+margin-left:10px;
+padding: 2px 6px;
+color: #ffffff;
+background: #CCA300;
+} 
+#frontImg{
+margin-top:15px;
+margin-left:auto;
+margin-right:auto;
+border:8px inset grey;
+display:block;
+}
+#button2 {
+height:35px;
+width:120px;
+border:1px solid #FF0000;
+background:#333333;
+border-top-left-radius:5px;
+border-top-right-radius:50px;
+border-bottom-right-radius:5px;
+border-bottom-left-radius:50px;
+color:#E89619;
+font-family: sans-serif;
+font-size:18px;
+padding-top:5px;
+padding-bottom:5px;
+margin:5px;
+}
+
+#button2:hover {
+color:#ffffff;
+background:#000;
+}  
+#button2:active {
+border-width:4px 0px 0px 4px;
+width:116px;
+border-color:#FF0000;
+}
+#right{
+float:right;
+color:#000066;
+font-size:large;
+font-family:arial;
+}
+#blog{
+font:arial;
+width:70%;
+margin-top:15px;
+margin-bottom:15px;
+margin-left:auto;
+margin-right:auto;
+text-align:left;
+border: 1px solid black;
+background-color:#ffffff;
+padding:30px;
+box-shadow:8px 8px 15px #000;
+}
+#textbox{
+border: 1px solid blue;
+background-color:#ffffff;
+}
+#textbox:focus{
+background-color:#C6F6F1;
+border-width:2px;
+}
+#textbox1{
+border: 1px solid blue;
+background-color:#ffffff;
+}
+#textbox1:focus{
+border: 1px solid grey;
+background-color:#F4EEAE;
+}
+#edit{
+border: 1px solid blue;
+background-color:#ffffff;
+}
+#edit:focus{
+border: 1px solid grey;
+background-color:#F4EEAE;
+}
+#footer {
+border:1px inset blue;
+padding: 15px;
+margin:10px;
+background-color:#EEE9E9;
+}
+#content {
+font-family:Sans-serif,arial;
+color:#000080;
+border:2px solid black;
+padding:30px;
+margin: 15px;
+background-color: #EEE9E9;
+float:none;
+}
+#img1{
+width:40px;
+height:50px;
+margin:5px;
+vertical-align:middle;
+}
+a:link {
+	color:#4B0082;
+	text-decoration:underline;
+}
+
+a:hover {
+	color:#FF0000;
+	text-decoration:underline;
+}
+#nav{
+padding:10px;
+margin:10px;
+}
+#button1{
+margin-left:auto;
+margin-right:auto;
+margin-top:8px;
+margin-bottom:8px;
+padding:1px;
+width:5em;
+display:block;
+border:3px solid black;
+border-left:none;
+border-right:none;
+font-family: sans-serif;
+text-decoration:none;
+background-color:#F0E68C;
+text-align:center;
+}
+#button1:hover{
+color:#FF0000;
+background:#FFCC66;
+border: 3px double black;
+}
+a#button2{
+height:35px;
+width:120px;
+border:1px solid #FF0000;
+background:#333333;
+border-top-left-radius:5px;
+border-top-right-radius:50px;
+border-bottom-right-radius:5px;
+border-bottom-left-radius:50px;
+color:#E89619;
+font-family: sans-serif;
+font-size:18px;
+padding-left:15px;
+padding-right:15px;
+margin:5px;
+text-decoration:none;
+}
+.msg{
+text-align:center;
+font-weight:bold;
+margin:30px;
+font-size:large;
+}
+.right{
+float:right;
+}
+.textRight{
+text-align:right;
+}
+.img{
+box-shadow:4px 4px 8px #000;
+display:block;
+}
+.left{
+float:left;
+margin-right:15px;
+}
+.white{
+background:#fff;
+padding-left:15px;
+padding-right:15px;
+}
+a.olderButton{
+float:right;
+border: 1px solid grey;
+background-color:#FF0000;
+text-decoration:none;
+color:#ffffff;
+padding-left:15px;
+padding-right:15px;
+display:block;
+}
+a.olderButton:hover{
+background:#000080;
+}
+.center{
+margin-left:auto;
+margin-right:auto;
+display:block;
+}
